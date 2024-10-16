@@ -10,7 +10,7 @@ I’m a Software Engineering student from &nbsp;<img src="https://user-images.gi
 My main focus is on C# with .NET, but I also work with TypeScript, JavaScript, and Angular, expanding my skill set to meet different project demands. 
 <br/>
 
-I have a passion for imagining and building solutions that can make a positive impact on people’s lives, always aiming to create meaningful and practical applications.
+I enjoy creating and designing application solutions that deliver real value.
 
 <h3>Technologies 🚀</h3>
 <p>
