@@ -4,13 +4,13 @@
 
 <h3>About me 💭</h3>
 
-I'm a Computer Engineering student from &nbsp;<img src="https://user-images.githubusercontent.com/9582465/142709262-190869f0-971f-4dc7-b9c2-257d35fba462.png" height="13"> &nbsp;and I like software development quite a lot. 
+I’m a Software Engineering student from &nbsp;<img src="https://user-images.githubusercontent.com/9582465/142709262-190869f0-971f-4dc7-b9c2-257d35fba462.png" height="13"> &nbsp;and a technology enthusiast. 
 <br/>
 
-At the moment, I am working as a React Native developer, but I am also very interested in Flutter and had a bunch of fun making some personal projects using it. 
+My main focus is on C# with .NET, but I also work with TypeScript, JavaScript, and Angular, expanding my skill set to meet different project demands. 
 <br/>
 
-I mostly develop mobile apps, but I also build some stuff for the web here and there 😅
+I have a passion for imagining and building solutions that can make a positive impact on people’s lives, always aiming to create meaningful and practical applications.
 
 <h3>Technologies 🚀</h3>
 <p>
