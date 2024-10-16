@@ -1,10 +1,10 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/76c7ff35-bf92-4eea-9ea1-dc80c418ac0e" width="100%"/>
-</p><h2 align="center">Hi there! I'm Samuel &nbsp;<img height="24px" src="https://user-images.githubusercontent.com/9582465/142705235-0fffaeb5-c931-4619-aa93-94e859f6122b.gif" width="30px"></h2> 
+</p><h2 align="center">Hi there! I'm Samuel &nbsp;<img height="24px" src="https://github.com/user-attachments/assets/05281e73-e3cf-4511-955e-37c32d4de0be" width="30px"></h2> 
 
 <h3>About me 💭</h3>
 
-I’m a Software Engineering student from &nbsp;<img src="https://user-images.githubusercontent.com/9582465/142709262-190869f0-971f-4dc7-b9c2-257d35fba462.png" height="13"> &nbsp;and a technology enthusiast. 
+I’m a Software Engineering student from &nbsp;<img src="https://github.com/user-attachments/assets/2a1f1912-2cc0-4df1-b430-e6acab67d216" height="13"> &nbsp;and a technology enthusiast. 
 <br/>
 
 My main focus is on C# with .NET, but I also work with TypeScript, JavaScript, and Angular, expanding my skill set to meet different project demands. 
